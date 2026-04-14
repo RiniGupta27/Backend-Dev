@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1771478356896,
+    "name": "rohan",
+    "email": "rohan.sharma@example.com",
+    "password": "$2b$10$qykvUr5UWiEkdmBZV5EIsOIdQxtMSnilmHHYVNZY1ae157h7zBpNS",
+    "department": "it department",
+    "basic_salary": 55000
+  },
+  {
+    "id": 1771482503626,
+    "name": "priya mehta",
+    "email": "priya.mehta@example.com",
+    "password": "$2b$10$xsZ4RabAHypVx548C/ll.e0DrapYndblX/uup/7hdwPa6BmNxkQTe",
+    "department": "finance",
+    "basic_salary": 52000
+  }
+]
